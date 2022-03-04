@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="VBCODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Imports System
+Module m
+
+Sub Main()
+
+Console.WriteLine("Hello World")
+Console.ReadKey()
+
+End Sub
+
+End Module</Value>
+    </Setting>
+    <Setting Name="CSHARPCODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">using system;
+namespace Sample
+{
+static class Program
+{
+
+static void Main()
+{
+Console.WriteLine("Hello World");
+Console.ReadKey();
+}
+}
+}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

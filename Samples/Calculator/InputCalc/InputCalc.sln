@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InputCalc", "InputCalc\InputCalc.vbproj", "{61745B01-7241-4650-B981-077B40EABC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61745B01-7241-4650-B981-077B40EABC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61745B01-7241-4650-B981-077B40EABC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61745B01-7241-4650-B981-077B40EABC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61745B01-7241-4650-B981-077B40EABC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA788BD6-EBDE-46C4-9F52-F143A50859E5}
+	EndGlobalSection
+EndGlobal
