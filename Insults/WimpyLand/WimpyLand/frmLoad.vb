@@ -35,9 +35,7 @@ Public Class frmLoad
         If bClicked = True Then
             frmMain.txtName.ReadOnly = False
         ElseIf bClicked = False Then
-            frmMain.max = 100
-            frmMain.min = 1
-            frmMain.txtLevel.Text = (Int((frmMain.max - frmMain.min + 1) * Rnd() + frmMain.min))
+            frmMain.txtLevel.Text = new random().Next(1,100)
             frmMain.txtName.ReadOnly = False
         End If
     End Sub
