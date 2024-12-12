@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MasterBrowser", "MasterBrowser\MasterBrowser.vbproj", "{2158F8AC-727D-4931-A8A2-1A3C4B9C8997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2158F8AC-727D-4931-A8A2-1A3C4B9C8997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2158F8AC-727D-4931-A8A2-1A3C4B9C8997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2158F8AC-727D-4931-A8A2-1A3C4B9C8997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2158F8AC-727D-4931-A8A2-1A3C4B9C8997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C74596-469D-4958-880F-2BB205455EB2}
+	EndGlobalSection
+EndGlobal
